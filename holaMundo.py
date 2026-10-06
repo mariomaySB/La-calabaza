@@ -84,3 +84,10 @@ print("Cajas puedes llenar completamente")
 print(cajas)
 
 print("10-Residuo de una división. Tienes 29 galletas y quieres repartirlas entre 4 personas en partes iguales. Utiliza // para calcular cuántas recibe cada persona y % para calcular cuántas sobran. Muestra los dos resultados.")
+
+galletas=29
+resultado=galletas//4
+resultado2=galletas%4
+print("Las partes iguales:")
+print(resultado)
+print(resultado2)
